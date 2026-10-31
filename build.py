@@ -19,13 +19,15 @@ for lote,fs in d['fotos'].items():
     for (i,a,dt) in fs: make(i); allf.append(dict(t=f'img/t_{i}.jpg',f=f'img/f_{i}.jpg',l=lote,a=a,d=dt))
 e=html.escape
 def color(v):
-    if not v: return '#f1f1ef'
-    a=0.15+0.85*v/100; return f'rgba(196,106,42,{a:.2f})'
+    v=max(0,min(100,v or 0))/100
+    c0=(243,238,232);c1=(196,106,42)
+    r,g,b=[round(c0[j]+(c1[j]-c0[j])*v) for j in range(3)]
+    return f'rgb({r},{g},{b})'
 hm='<tr><th></th>'+''.join(f'<th class="h"><span>{e(h)}</span></th>' for h in d['hitos'])+'</tr>'
 notas=[]
 for lote,av in d['avance'].items():
     if av is None: notas.append(f'{lote} aún sin reportes.'); av={}
-    hm+=f'<tr><th class="l">{e(lote)}</th>'+''.join(f'<td style="background:{color(av.get(h,0))}" title="{e(h)}: {av.get(h,0)}%">{av.get(h,0)}</td>' for h in d['hitos'])+'</tr>'
+    hm+=f'<tr><th class="l">{e(lote)}</th>'+''.join(f'<td style="background:{color(av.get(h,0))}" title="{e(h)}: {av.get(h,0)}%"></td>' for h in d['hitos'])+'</tr>'
 gal='';k=0
 for lote,fs in d['fotos'].items():
     gal+=f'<h3>{e(lote)} · {fs[0][2]}</h3><div class="g">'
