@@ -1,0 +1,39 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Avance de obra – Mirador MTY</title><style>
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#1d1d1b;background:#fafaf8}
+main{max-width:1000px;margin:0 auto;padding:20px 16px 48px}
+header .r{display:flex;flex-wrap:wrap;align-items:center;gap:16px}header img{width:140px;max-width:40%}
+h1{font-size:26px;margin:0;flex:1 1 180px}.sub{color:#666;margin-top:8px}h2{font-size:19px;margin:32px 0 12px}h3{font-size:15px;margin:20px 0 8px}
+.hw{overflow-x:auto}table{border-collapse:separate;border-spacing:3px;font-size:12px}td{width:34px;height:34px;text-align:center;border-radius:6px}
+th.h{height:150px;vertical-align:bottom;font-weight:500;color:#555}th.h span{writing-mode:vertical-rl;transform:rotate(180deg);white-space:nowrap}
+th.l{text-align:left;white-space:nowrap;padding-right:6px}.nota{color:#666;font-size:14px}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px}.g img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px;cursor:zoom-in;background:#eee}
+#lb{position:fixed;inset:0;background:#000;display:none;flex-direction:column;z-index:9;touch-action:pan-y}#lb.on{display:flex}
+#lb .top{display:flex;justify-content:space-between;align-items:center;color:#fff;padding:10px 14px;font-size:14px}
+#lb .st{flex:1;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+#lb .st img{max-width:100%;max-height:100%;object-fit:contain;user-select:none;-webkit-user-drag:none}
+#lb button{background:rgba(255,255,255,.15);color:#fff;border:0;border-radius:99px;width:44px;height:44px;font-size:24px;cursor:pointer}
+#lb .p,#lb .n{position:absolute;top:50%;transform:translateY(-50%)}#lb .p{left:10px}#lb .n{right:10px}
+#lb .cap{color:#ddd;padding:10px 14px 18px;font-size:14px;text-align:center}
+</style></head><body><main>
+<header><div class="r"><img src="%LOGO%" alt="Taller Habitat Arquitectos"><h1>Avance de obra – Mirador MTY</h1></div>
+<div class="sub">%DIR% Corte: reporte del %CORTE%.</div></header>
+<h2>Avance por hito (%)</h2><div class="hw"><table>%HM%</table></div>
+<p class="nota">Hitos y porcentajes tal como vienen en el reporte diario de obra (último reporte de cada lote). %NOTAS%</p>
+<h2>Fotos más recientes del reporte</h2>%GAL%
+</main>
+<div id="lb"><div class="top"><span id="ct"></span><button id="x" aria-label="Cerrar">×</button></div>
+<div class="st"><img id="im" alt=""><button class="p" aria-label="Anterior">‹</button><button class="n" aria-label="Siguiente">›</button></div>
+<div class="cap" id="cap"></div></div>
+<script>
+const F=%FOTOS%;let k=0;const lb=document.getElementById('lb'),im=document.getElementById('im');
+function show(i){k=(i+F.length)%F.length;const f=F[k];im.src=f.t;const h=new Image();h.onload=()=>{if(F[k]===f)im.src=f.f};h.src=f.f;
+document.getElementById('ct').textContent=f.l+' · '+(k+1)+' de '+F.length;document.getElementById('cap').textContent=f.a+' · Reporte del '+f.d;
+[k+1,k-1].forEach(j=>{new Image().src=F[(j+F.length)%F.length].f})}
+document.querySelectorAll('.g img').forEach(e=>e.onclick=()=>{show(+e.dataset.k);lb.classList.add('on');document.body.style.overflow='hidden'});
+function close(){lb.classList.remove('on');document.body.style.overflow=''}
+document.getElementById('x').onclick=close;lb.querySelector('.p').onclick=()=>show(k-1);lb.querySelector('.n').onclick=()=>show(k+1);
+addEventListener('keydown',e=>{if(!lb.classList.contains('on'))return;if(e.key=='ArrowRight')show(k+1);if(e.key=='ArrowLeft')show(k-1);if(e.key=='Escape')close()});
+let x0=null;lb.addEventListener('touchstart',e=>{x0=e.touches[0].clientX},{passive:true});
+lb.addEventListener('touchend',e=>{if(x0===null)return;const dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)show(dx<0?k+1:k-1)});
+</script></body></html>
