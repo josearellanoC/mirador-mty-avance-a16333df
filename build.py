@@ -20,7 +20,7 @@ for lote,fs in d['fotos'].items():
 e=html.escape
 def color(v):
     v=max(0,min(100,v or 0))/100
-    c0=(243,238,232);c1=(196,106,42)
+    c0=(236,242,250);c1=(37,99,235)
     r,g,b=[round(c0[j]+(c1[j]-c0[j])*v) for j in range(3)]
     return f'rgb({r},{g},{b})'
 hm='<tr><th></th>'+''.join(f'<th class="h"><span>{e(h)}</span></th>' for h in d['hitos'])+'</tr>'
