@@ -1,8 +1,140 @@
-{"corte":"30/10/2026",
- "direccion":"Privada El Mirador, Dominio Cumbres, García, NL.",
- "hitos":["Excavaciones para cimentación","Cimentación","Drenaje","Muros planta baja","Losa de entrepiso","Muros nivel 1","Losa nivel 1","Muros nivel 2","Losa nivel 2","Pendientes pluviales e impermeabilización","Aplanados interiores","Aplanados exteriores","Acabados","Carpintería","Cancelería","Herrería","Exteriores"],
- "avance":{"Lote 29":null,"Lote 39":{"Excavaciones para cimentación":10},"Lote 40":{},"Lote 43":{}},
- "fotos":{
-  "Lote 39":[["1t2dVKWfkICvA-jXJULVLSZlYeG3fM7XY","Excavación de zapatas","30/10/2026"],["1Ymes0j1R91x2WVeMjClNpqsNfqIVfSCX","Habilitado de acero","30/10/2026"],["13DNzTkTjI8vSSyGZqyhjU4SDc-CHkfCO","Trazo de nueva cimentación","29/10/2026"],["1W6xzqDGMBOBXTxgpggmjYRkiac--YxMk","Trazo de nueva cimentación","29/10/2026"],["1fCKQ50vjqgU6IbwlEO69mBmJ18dylSbX","Excavación","29/10/2026"],["1tkDa3Z1skzggsYUiwZCFIAlz4eVWcgGm","Excavación","29/10/2026"],["1J-zrxCA3uy1sldEGjBsh77JjaSfENfz1","Armado de parrillas Z-1","29/10/2026"]],
-  "Lote 40":[["1n6ONAUpeHd6BSouvwj_WnR15wpLQ18VA","Habilitado de acero","30/10/2026"],["1bRi8dn95Yl4KD_hjPcUMN1iJ84UR8JNQ","Habilitado de acero","30/10/2026"],["195HIkD4Na3ubihQLLzOOg4cBktM0UlMP","Habilitado de acero","29/10/2026"],["1AWnxdPr3ML5vJVMbnVUa2aUPYW4N_laW","Habilitado de acero","29/10/2026"]],
-  "Lote 43":[["1kM_HLoSZTbpLmFxew7Vpyx6TelJl9sMg","Terreno","30/10/2026"],["16ygE4uhKceYp7Tc4sA1Ph8SCA7oMt0e6","Terreno","29/10/2026"]]}}
+{
+ "corte": "10/11/2026",
+ "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
+ "hitos": [
+  "Excavaciones para cimentación",
+  "Cimentación",
+  "Drenaje",
+  "Muros planta baja",
+  "Losa de entrepiso",
+  "Muros nivel 1",
+  "Losa nivel 1",
+  "Muros nivel 2",
+  "Losa nivel 2",
+  "Pendientes pluviales e impermeabilización",
+  "Aplanados interiores",
+  "Aplanados exteriores",
+  "Acabados",
+  "Carpintería",
+  "Cancelería",
+  "Herrería",
+  "Exteriores"
+ ],
+ "avance": {
+  "Lote 29": null,
+  "Lote 39": {
+   "Excavaciones para cimentación": 100,
+   "Cimentación": 60
+  },
+  "Lote 40": {},
+  "Lote 43": {}
+ },
+ "fotos": {
+  "Lote 39": [
+   [
+    "1kC8kBdDO87umTnil4ATGIO6eRrG6GPUI",
+    "Cimbrado de cimentación y viga desplante",
+    "10/11/2026"
+   ],
+   [
+    "1WiZeDH3J7QjvhGCBDQ2amnw_ZmJvlI7H",
+    "Cimbrado de cimentación y viga desplante",
+    "10/11/2026"
+   ],
+   [
+    "13YbI-UBFPVElGfFMvh8b_Mv9EbhLCW5N",
+    "Plantilla de concreto pobre",
+    "10/11/2026"
+   ],
+   [
+    "1R1PD5fmY5a5fOg6wHvY8gYLoEvgyZ5y1",
+    "Plantilla de concreto pobre",
+    "10/11/2026"
+   ],
+   [
+    "1QUfElxYYIxO0KnnWXdhgfBM5tLBFa32y",
+    "Afinado de terreno y nivelación con grava para recibir plantilla",
+    "10/11/2026"
+   ],
+   [
+    "11MthYcZwq8xXum9lDwCcmKIl5Gdwpb14",
+    "Afinado de terreno y nivelación con grava para recibir plantilla",
+    "10/11/2026"
+   ],
+   [
+    "1a4WqEblZxNQXm-ZczRn3UWaKxgzhDt1T",
+    "Suministro de madera (peracera)",
+    "10/11/2026"
+   ],
+   [
+    "1t2dVKWfkICvA-jXJULVLSZlYeG3fM7XY",
+    "Excavación de zapatas",
+    "30/10/2026"
+   ],
+   [
+    "1Ymes0j1R91x2WVeMjClNpqsNfqIVfSCX",
+    "Habilitado de acero",
+    "30/10/2026"
+   ],
+   [
+    "13DNzTkTjI8vSSyGZqyhjU4SDc-CHkfCO",
+    "Trazo de nueva cimentación",
+    "29/10/2026"
+   ],
+   [
+    "1W6xzqDGMBOBXTxgpggmjYRkiac--YxMk",
+    "Trazo de nueva cimentación",
+    "29/10/2026"
+   ],
+   [
+    "1fCKQ50vjqgU6IbwlEO69mBmJ18dylSbX",
+    "Excavación",
+    "29/10/2026"
+   ],
+   [
+    "1tkDa3Z1skzggsYUiwZCFIAlz4eVWcgGm",
+    "Excavación",
+    "29/10/2026"
+   ],
+   [
+    "1J-zrxCA3uy1sldEGjBsh77JjaSfENfz1",
+    "Armado de parrillas Z-1",
+    "29/10/2026"
+   ]
+  ],
+  "Lote 40": [
+   [
+    "1n6ONAUpeHd6BSouvwj_WnR15wpLQ18VA",
+    "Habilitado de acero",
+    "30/10/2026"
+   ],
+   [
+    "1bRi8dn95Yl4KD_hjPcUMN1iJ84UR8JNQ",
+    "Habilitado de acero",
+    "30/10/2026"
+   ],
+   [
+    "195HIkD4Na3ubihQLLzOOg4cBktM0UlMP",
+    "Habilitado de acero",
+    "29/10/2026"
+   ],
+   [
+    "1AWnxdPr3ML5vJVMbnVUa2aUPYW4N_laW",
+    "Habilitado de acero",
+    "29/10/2026"
+   ]
+  ],
+  "Lote 43": [
+   [
+    "1kM_HLoSZTbpLmFxew7Vpyx6TelJl9sMg",
+    "Terreno",
+    "30/10/2026"
+   ],
+   [
+    "16ygE4uhKceYp7Tc4sA1Ph8SCA7oMt0e6",
+    "Terreno",
+    "29/10/2026"
+   ]
+  ]
+ }
+}
