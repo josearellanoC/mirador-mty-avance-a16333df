@@ -1,5 +1,5 @@
 {
- "corte": "10/11/2026",
+ "corte": "11/11/2026",
  "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
  "hitos": [
   "Excavaciones para cimentación",
@@ -24,13 +24,43 @@
   "Lote 29": null,
   "Lote 39": {
    "Excavaciones para cimentación": 100,
-   "Cimentación": 60
+   "Cimentación": 90
   },
   "Lote 40": {},
   "Lote 43": {}
  },
  "fotos": {
   "Lote 39": [
+   [
+    "1lQ7GxGEKq3vPKMMjROeyoMhHC-hC9yLX",
+    "Plantilla de concreto pobre fc 100 kg/cm2",
+    "11/11/2026"
+   ],
+   [
+    "15sSWSP7obKPnGgYJLBUCATvgOU8OGa1F",
+    "Plantilla de concreto pobre fc 100 kg/cm2",
+    "11/11/2026"
+   ],
+   [
+    "1xT5QubNWqwdw-Vw5hEVIQbmKwxBKvdOA",
+    "Cimbrado de viga y zapata",
+    "11/11/2026"
+   ],
+   [
+    "1eK1P79w5luGckF_PnKLXyzjp0Eq4GgWj",
+    "Cimbrado de viga y zapata",
+    "11/11/2026"
+   ],
+   [
+    "1_rSWV6q0Rb8SsDKN4d5yhhw1NWrZ2GdX",
+    "Colocación de castillos en cimentación y estribos topo C",
+    "11/11/2026"
+   ],
+   [
+    "1Dmus61YxEj_9TA4Bc3GusmTfHpsdbqir",
+    "Colocación de armado de zapata y viga de desplante",
+    "11/11/2026"
+   ],
    [
     "1kC8kBdDO87umTnil4ATGIO6eRrG6GPUI",
     "Cimbrado de cimentación y viga desplante",
