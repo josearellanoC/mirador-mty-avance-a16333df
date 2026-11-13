@@ -26,7 +26,10 @@
    "Excavaciones para cimentación": 100,
    "Cimentación": 90
   },
-  "Lote 40": {},
+  "Lote 40": {
+   "Excavaciones para cimentación": 10,
+   "Cimentación": 10
+  },
   "Lote 43": {}
  },
  "fotos": {
@@ -163,6 +166,26 @@
    ]
   ],
   "Lote 40": [
+   [
+    "16Yr59bxl9XkKBoXFg4h4IaVwBvhLlfG7",
+    "Trazo del lote 40",
+    "12/11/2026"
+   ],
+   [
+    "1KXpWHLYElEf9X5utf8_tgeiuHsFasQhd",
+    "Excavación con máquina material tipo 3",
+    "12/11/2026"
+   ],
+   [
+    "1276qhgJLoGx8TZ34auG-M7oao90RK_d1",
+    "Excavación con máquina material tipo 3",
+    "12/11/2026"
+   ],
+   [
+    "1k-u5gyt-bt6DjSUxXwI682qBS7R2T-84",
+    "Excavación con máquina material tipo 3",
+    "12/11/2026"
+   ],
    [
     "1n6ONAUpeHd6BSouvwj_WnR15wpLQ18VA",
     "Habilitado de acero",
