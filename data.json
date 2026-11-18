@@ -1,5 +1,5 @@
 {
- "corte": "12/11/2026",
+ "corte": "17/11/2026",
  "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
  "hitos": [
   "Excavaciones para cimentación",
@@ -24,16 +24,44 @@
   "Lote 29": null,
   "Lote 39": {
    "Excavaciones para cimentación": 100,
-   "Cimentación": 90
+   "Cimentación": 100
   },
   "Lote 40": {
-   "Excavaciones para cimentación": 10,
+   "Excavaciones para cimentación": 20,
    "Cimentación": 10
   },
-  "Lote 43": {}
+  "Lote 43": {
+   "Excavaciones para cimentación": 0,
+   "Cimentación": 90
+  }
  },
  "fotos": {
   "Lote 39": [
+   [
+    "1SJfJ2SS7vh7V30hYlpJsx1GCRyUT-5Hc",
+    "Terminación de detalles de cimbra y acero",
+    "17/11/2026"
+   ],
+   [
+    "13zlav2IkxHMF_EoNAseUWQTloseKb787",
+    "Terminación de detalles de cimbra y acero",
+    "17/11/2026"
+   ],
+   [
+    "1XFkX_-s3rNIrLJSN2K6f43q04UEIrWdG",
+    "Terminación de detalles de cimbra y acero",
+    "17/11/2026"
+   ],
+   [
+    "1GlPC6JgEPePlIKHC2WvkHyS8e_MtEX-u",
+    "Terminación de detalles de cimbra y acero",
+    "17/11/2026"
+   ],
+   [
+    "1PgdBrRbPGrvx-frdNjPf4wgifsYFETeX",
+    "Terminación de detalles de cimbra y acero",
+    "17/11/2026"
+   ],
    [
     "1E0s38sMPLhWZqF1zEibe_mFsP_cxkoGY",
     "Colocación de armado de zapata y viga de cimentación",
@@ -167,6 +195,11 @@
   ],
   "Lote 40": [
    [
+    "1Dk1ebD5ek3ZzxOMxBAkwH2aIkMIO6rK1",
+    "Habilitación de acero",
+    "17/11/2026"
+   ],
+   [
     "16Yr59bxl9XkKBoXFg4h4IaVwBvhLlfG7",
     "Trazo del lote 40",
     "12/11/2026"
@@ -208,6 +241,21 @@
    ]
   ],
   "Lote 43": [
+   [
+    "1-5z73h2NURXygpVBtIdnu1WMpi_U26D7",
+    "Habilitación de acero de cimentación",
+    "17/11/2026"
+   ],
+   [
+    "1Vkb3rrT6C_MKDd3xYCcfuOyNl8-J4CjM",
+    "Habilitación de acero de cimentación",
+    "17/11/2026"
+   ],
+   [
+    "1dQtXicT6-vwclBIQzb1qRzNF6Gj9Ovgk",
+    "Habilitación de acero de cimentación",
+    "17/11/2026"
+   ],
    [
     "1kM_HLoSZTbpLmFxew7Vpyx6TelJl9sMg",
     "Terreno",
