@@ -1,5 +1,5 @@
 {
- "corte": "17/11/2026",
+ "corte": "18/11/2026",
  "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
  "hitos": [
   "Excavaciones para cimentación",
@@ -24,19 +24,29 @@
   "Lote 29": null,
   "Lote 39": {
    "Excavaciones para cimentación": 100,
-   "Cimentación": 100
+   "Cimentación": 90
   },
   "Lote 40": {
    "Excavaciones para cimentación": 20,
-   "Cimentación": 10
+   "Cimentación": 30
   },
   "Lote 43": {
-   "Excavaciones para cimentación": 0,
-   "Cimentación": 90
+   "Excavaciones para cimentación": 10,
+   "Cimentación": 0
   }
  },
  "fotos": {
   "Lote 39": [
+   [
+    "1E9JAuMskYDOZZ1kWP53WUJ_H-VDgVcmP",
+    "Colocación de anillos de castillos",
+    "18/11/2026"
+   ],
+   [
+    "1_jsiKP9jpgwoB-M6Zw4Qs__bZlbBxu8Z",
+    "Refuerzo de madera en cimbra de cadenas",
+    "18/11/2026"
+   ],
    [
     "1SJfJ2SS7vh7V30hYlpJsx1GCRyUT-5Hc",
     "Terminación de detalles de cimbra y acero",
@@ -195,6 +205,36 @@
   ],
   "Lote 40": [
    [
+    "1wVejB-OneqLdC1kXqCPZ4XLArIvFQXK1",
+    "Excavación material tipo 3 para cimentación",
+    "18/11/2026"
+   ],
+   [
+    "1DNWn5UB3UBEuyGElP125SF8yK96W_jZa",
+    "Excavación material tipo 3 para cimentación",
+    "18/11/2026"
+   ],
+   [
+    "1czRVC1kaJumYlzh9GWkRbJNdpFMmxAa_",
+    "Excavación material tipo 3 para cimentación",
+    "18/11/2026"
+   ],
+   [
+    "1wyBfWDuiEuQvq1-RryODQJKR0q23hCsl",
+    "Colocación de plantillas de concreto pobre",
+    "18/11/2026"
+   ],
+   [
+    "1A6BYPA7O-BcNb3LfojrsoI7zWU1dwuQO",
+    "Colocación de plantillas de concreto pobre",
+    "18/11/2026"
+   ],
+   [
+    "1IM2JO3uN8cP1Vd1f5Cpm5_nhQtkvIhH9",
+    "Habilitación de acero y colocación de zapata corrida",
+    "18/11/2026"
+   ],
+   [
     "1Dk1ebD5ek3ZzxOMxBAkwH2aIkMIO6rK1",
     "Habilitación de acero",
     "17/11/2026"
@@ -241,6 +281,16 @@
    ]
   ],
   "Lote 43": [
+   [
+    "1Zr3ObEWWDpKRGxbi3dK8Moc1w9_kF_FG",
+    "Habilitación de acero de refuerzo",
+    "18/11/2026"
+   ],
+   [
+    "1BT1kqFdv4vbPQYbVbCalpnSuGz1efo29",
+    "Habilitación de acero de refuerzo",
+    "18/11/2026"
+   ],
    [
     "1-5z73h2NURXygpVBtIdnu1WMpi_U26D7",
     "Habilitación de acero de cimentación",
