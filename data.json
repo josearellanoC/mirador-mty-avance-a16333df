@@ -1,5 +1,5 @@
 {
- "corte": "18/11/2026",
+ "corte": "19/11/2026",
  "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
  "hitos": [
   "Excavaciones para cimentación",
@@ -23,11 +23,11 @@
  "avance": {
   "Lote 29": null,
   "Lote 39": {
-   "Excavaciones para cimentación": 100,
-   "Cimentación": 90
+   "Excavaciones para cimentación": 20,
+   "Cimentación": 20
   },
   "Lote 40": {
-   "Excavaciones para cimentación": 20,
+   "Excavaciones para cimentación": 0,
    "Cimentación": 30
   },
   "Lote 43": {
@@ -37,6 +37,21 @@
  },
  "fotos": {
   "Lote 39": [
+   [
+    "1f0EBQsqmTm1mM1eqJEQbAgBuGQzv_Hp5",
+    "Habilitado y cimbrado de zapatas",
+    "19/11/2026"
+   ],
+   [
+    "1ZF676nywTarIgU2iZViDURvTssvs37IT",
+    "Habilitado de acero de zapatas",
+    "19/11/2026"
+   ],
+   [
+    "1Y-p22UWGw8ECGOU5GJc2wZqTuE_K0ztP",
+    "Habilitado de acero de zapatas",
+    "19/11/2026"
+   ],
    [
     "1E9JAuMskYDOZZ1kWP53WUJ_H-VDgVcmP",
     "Colocación de anillos de castillos",
