@@ -1,336 +1,366 @@
 {
- "corte": "19/11/2026",
- "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
- "hitos": [
-  "Excavaciones para cimentación",
-  "Cimentación",
-  "Drenaje",
-  "Muros planta baja",
-  "Losa de entrepiso",
-  "Muros nivel 1",
-  "Losa nivel 1",
-  "Muros nivel 2",
-  "Losa nivel 2",
-  "Pendientes pluviales e impermeabilización",
-  "Aplanados interiores",
-  "Aplanados exteriores",
-  "Acabados",
-  "Carpintería",
-  "Cancelería",
-  "Herrería",
-  "Exteriores"
- ],
- "avance": {
-  "Lote 29": null,
-  "Lote 39": {
-   "Excavaciones para cimentación": 100,
-   "Cimentación": 70
+  "corte": "20/11/2026",
+  "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
+  "hitos": [
+    "Excavaciones para cimentación",
+    "Cimentación",
+    "Drenaje",
+    "Muros planta baja",
+    "Losa de entrepiso",
+    "Muros nivel 1",
+    "Losa nivel 1",
+    "Muros nivel 2",
+    "Losa nivel 2",
+    "Pendientes pluviales e impermeabilización",
+    "Aplanados interiores",
+    "Aplanados exteriores",
+    "Acabados",
+    "Carpintería",
+    "Cancelería",
+    "Herrería",
+    "Exteriores"
+  ],
+  "avance": {
+    "Lote 29": null,
+    "Lote 39": {
+      "Excavaciones para cimentación": 100,
+      "Cimentación": 70
+    },
+    "Lote 40": {
+      "Excavaciones para cimentación": 10,
+      "Cimentación": 30
+    },
+    "Lote 43": {
+      "Excavaciones para cimentación": 10,
+      "Cimentación": 0
+    }
   },
-  "Lote 40": {
-   "Excavaciones para cimentación": 0,
-   "Cimentación": 30
-  },
-  "Lote 43": {
-   "Excavaciones para cimentación": 10,
-   "Cimentación": 0
+  "fotos": {
+    "Lote 39": [
+      [
+        "1YZPuS8m-sz50QJ1c8x6L5Kzx6ccakWsI",
+        "Colado de cimentación eje 1-5 G",
+        "20/11/2026"
+      ],
+      [
+        "1tPzEDcNUjGSP3Iu_Bq4EVwjInlfZPP3A",
+        "Colado de cimentación A-D 1-3",
+        "20/11/2026"
+      ],
+      [
+        "1BVyGltCPzAklF8_EL_mJDuQDCMS9Ecbo",
+        "Colado de cimentación 4-5 D-A",
+        "20/11/2026"
+      ],
+      [
+        "1f0EBQsqmTm1mM1eqJEQbAgBuGQzv_Hp5",
+        "Habilitado y cimbrado de zapatas",
+        "19/11/2026"
+      ],
+      [
+        "1ZF676nywTarIgU2iZViDURvTssvs37IT",
+        "Habilitado de acero de zapatas",
+        "19/11/2026"
+      ],
+      [
+        "1Y-p22UWGw8ECGOU5GJc2wZqTuE_K0ztP",
+        "Habilitado de acero de zapatas",
+        "19/11/2026"
+      ],
+      [
+        "1E9JAuMskYDOZZ1kWP53WUJ_H-VDgVcmP",
+        "Colocación de anillos de castillos",
+        "18/11/2026"
+      ],
+      [
+        "1_jsiKP9jpgwoB-M6Zw4Qs__bZlbBxu8Z",
+        "Refuerzo de madera en cimbra de cadenas",
+        "18/11/2026"
+      ],
+      [
+        "1SJfJ2SS7vh7V30hYlpJsx1GCRyUT-5Hc",
+        "Terminación de detalles de cimbra y acero",
+        "17/11/2026"
+      ],
+      [
+        "13zlav2IkxHMF_EoNAseUWQTloseKb787",
+        "Terminación de detalles de cimbra y acero",
+        "17/11/2026"
+      ],
+      [
+        "1XFkX_-s3rNIrLJSN2K6f43q04UEIrWdG",
+        "Terminación de detalles de cimbra y acero",
+        "17/11/2026"
+      ],
+      [
+        "1GlPC6JgEPePlIKHC2WvkHyS8e_MtEX-u",
+        "Terminación de detalles de cimbra y acero",
+        "17/11/2026"
+      ],
+      [
+        "1PgdBrRbPGrvx-frdNjPf4wgifsYFETeX",
+        "Terminación de detalles de cimbra y acero",
+        "17/11/2026"
+      ],
+      [
+        "1E0s38sMPLhWZqF1zEibe_mFsP_cxkoGY",
+        "Colocación de armado de zapata y viga de cimentación",
+        "12/11/2026"
+      ],
+      [
+        "15hg-CKUHhohE549fD5O7PFaKXI0CY75X",
+        "Colocación de armado de zapata y viga de cimentación",
+        "12/11/2026"
+      ],
+      [
+        "1rAmH-rsRC3X8LXcqpexeDOFLk7kaC_4t",
+        "Colocación de armado de zapata y viga de cimentación",
+        "12/11/2026"
+      ],
+      [
+        "1nxZg0ZTYupqtBAksGfrxNFjDH38gNtJD",
+        "Colocación de cimbra para cimentación y viga de desplante",
+        "12/11/2026"
+      ],
+      [
+        "1xpfGmdV1EqvVtJ7lPwLoBQmd57GnvSss",
+        "Colocación de cimbra para cimentación y viga de desplante",
+        "12/11/2026"
+      ],
+      [
+        "1nApNGRs4XHCyxlaKLz79cemv__qsQt80",
+        "Colocación de cimbra para cimentación y viga de desplante",
+        "12/11/2026"
+      ],
+      [
+        "1lQ7GxGEKq3vPKMMjROeyoMhHC-hC9yLX",
+        "Plantilla de concreto pobre fc 100 kg/cm2",
+        "11/11/2026"
+      ],
+      [
+        "15sSWSP7obKPnGgYJLBUCATvgOU8OGa1F",
+        "Plantilla de concreto pobre fc 100 kg/cm2",
+        "11/11/2026"
+      ],
+      [
+        "1xT5QubNWqwdw-Vw5hEVIQbmKwxBKvdOA",
+        "Cimbrado de viga y zapata",
+        "11/11/2026"
+      ],
+      [
+        "1eK1P79w5luGckF_PnKLXyzjp0Eq4GgWj",
+        "Cimbrado de viga y zapata",
+        "11/11/2026"
+      ],
+      [
+        "1_rSWV6q0Rb8SsDKN4d5yhhw1NWrZ2GdX",
+        "Colocación de castillos en cimentación y estribos topo C",
+        "11/11/2026"
+      ],
+      [
+        "1Dmus61YxEj_9TA4Bc3GusmTfHpsdbqir",
+        "Colocación de armado de zapata y viga de desplante",
+        "11/11/2026"
+      ],
+      [
+        "1kC8kBdDO87umTnil4ATGIO6eRrG6GPUI",
+        "Cimbrado de cimentación y viga desplante",
+        "10/11/2026"
+      ],
+      [
+        "1WiZeDH3J7QjvhGCBDQ2amnw_ZmJvlI7H",
+        "Cimbrado de cimentación y viga desplante",
+        "10/11/2026"
+      ],
+      [
+        "13YbI-UBFPVElGfFMvh8b_Mv9EbhLCW5N",
+        "Plantilla de concreto pobre",
+        "10/11/2026"
+      ],
+      [
+        "1R1PD5fmY5a5fOg6wHvY8gYLoEvgyZ5y1",
+        "Plantilla de concreto pobre",
+        "10/11/2026"
+      ],
+      [
+        "1QUfElxYYIxO0KnnWXdhgfBM5tLBFa32y",
+        "Afinado de terreno y nivelación con grava para recibir plantilla",
+        "10/11/2026"
+      ],
+      [
+        "11MthYcZwq8xXum9lDwCcmKIl5Gdwpb14",
+        "Afinado de terreno y nivelación con grava para recibir plantilla",
+        "10/11/2026"
+      ],
+      [
+        "1a4WqEblZxNQXm-ZczRn3UWaKxgzhDt1T",
+        "Suministro de madera (peracera)",
+        "10/11/2026"
+      ],
+      [
+        "1t2dVKWfkICvA-jXJULVLSZlYeG3fM7XY",
+        "Excavación de zapatas",
+        "30/10/2026"
+      ],
+      [
+        "1Ymes0j1R91x2WVeMjClNpqsNfqIVfSCX",
+        "Habilitado de acero",
+        "30/10/2026"
+      ],
+      [
+        "13DNzTkTjI8vSSyGZqyhjU4SDc-CHkfCO",
+        "Trazo de nueva cimentación",
+        "29/10/2026"
+      ],
+      [
+        "1W6xzqDGMBOBXTxgpggmjYRkiac--YxMk",
+        "Trazo de nueva cimentación",
+        "29/10/2026"
+      ],
+      [
+        "1fCKQ50vjqgU6IbwlEO69mBmJ18dylSbX",
+        "Excavación",
+        "29/10/2026"
+      ],
+      [
+        "1tkDa3Z1skzggsYUiwZCFIAlz4eVWcgGm",
+        "Excavación",
+        "29/10/2026"
+      ],
+      [
+        "1J-zrxCA3uy1sldEGjBsh77JjaSfENfz1",
+        "Armado de parrillas Z-1",
+        "29/10/2026"
+      ]
+    ],
+    "Lote 40": [
+      [
+        "1qSHFeB9Tqz7h_Dm8C_QdBOwgGaLPuNZ5",
+        "Habilitado de acero",
+        "20/11/2026"
+      ],
+      [
+        "1X5DzxaJEZFC6FgdhrjDbtvVkB8d0IiPv",
+        "Reanudación de excavaciones",
+        "20/11/2026"
+      ],
+      [
+        "1WvjoySXNMm_uB5OPfHGf38Fw_vbBIKoU",
+        "Carga de escombro",
+        "20/11/2026"
+      ],
+      [
+        "1wVejB-OneqLdC1kXqCPZ4XLArIvFQXK1",
+        "Excavación material tipo 3 para cimentación",
+        "18/11/2026"
+      ],
+      [
+        "1DNWn5UB3UBEuyGElP125SF8yK96W_jZa",
+        "Excavación material tipo 3 para cimentación",
+        "18/11/2026"
+      ],
+      [
+        "1czRVC1kaJumYlzh9GWkRbJNdpFMmxAa_",
+        "Excavación material tipo 3 para cimentación",
+        "18/11/2026"
+      ],
+      [
+        "1wyBfWDuiEuQvq1-RryODQJKR0q23hCsl",
+        "Colocación de plantillas de concreto pobre",
+        "18/11/2026"
+      ],
+      [
+        "1A6BYPA7O-BcNb3LfojrsoI7zWU1dwuQO",
+        "Colocación de plantillas de concreto pobre",
+        "18/11/2026"
+      ],
+      [
+        "1IM2JO3uN8cP1Vd1f5Cpm5_nhQtkvIhH9",
+        "Habilitación de acero y colocación de zapata corrida",
+        "18/11/2026"
+      ],
+      [
+        "1Dk1ebD5ek3ZzxOMxBAkwH2aIkMIO6rK1",
+        "Habilitación de acero",
+        "17/11/2026"
+      ],
+      [
+        "16Yr59bxl9XkKBoXFg4h4IaVwBvhLlfG7",
+        "Trazo del lote 40",
+        "12/11/2026"
+      ],
+      [
+        "1KXpWHLYElEf9X5utf8_tgeiuHsFasQhd",
+        "Excavación con máquina material tipo 3",
+        "12/11/2026"
+      ],
+      [
+        "1276qhgJLoGx8TZ34auG-M7oao90RK_d1",
+        "Excavación con máquina material tipo 3",
+        "12/11/2026"
+      ],
+      [
+        "1k-u5gyt-bt6DjSUxXwI682qBS7R2T-84",
+        "Excavación con máquina material tipo 3",
+        "12/11/2026"
+      ],
+      [
+        "1n6ONAUpeHd6BSouvwj_WnR15wpLQ18VA",
+        "Habilitado de acero",
+        "30/10/2026"
+      ],
+      [
+        "1bRi8dn95Yl4KD_hjPcUMN1iJ84UR8JNQ",
+        "Habilitado de acero",
+        "30/10/2026"
+      ],
+      [
+        "195HIkD4Na3ubihQLLzOOg4cBktM0UlMP",
+        "Habilitado de acero",
+        "29/10/2026"
+      ],
+      [
+        "1AWnxdPr3ML5vJVMbnVUa2aUPYW4N_laW",
+        "Habilitado de acero",
+        "29/10/2026"
+      ]
+    ],
+    "Lote 43": [
+      [
+        "1Zr3ObEWWDpKRGxbi3dK8Moc1w9_kF_FG",
+        "Habilitación de acero de refuerzo",
+        "18/11/2026"
+      ],
+      [
+        "1BT1kqFdv4vbPQYbVbCalpnSuGz1efo29",
+        "Habilitación de acero de refuerzo",
+        "18/11/2026"
+      ],
+      [
+        "1-5z73h2NURXygpVBtIdnu1WMpi_U26D7",
+        "Habilitación de acero de cimentación",
+        "17/11/2026"
+      ],
+      [
+        "1Vkb3rrT6C_MKDd3xYCcfuOyNl8-J4CjM",
+        "Habilitación de acero de cimentación",
+        "17/11/2026"
+      ],
+      [
+        "1dQtXicT6-vwclBIQzb1qRzNF6Gj9Ovgk",
+        "Habilitación de acero de cimentación",
+        "17/11/2026"
+      ],
+      [
+        "1kM_HLoSZTbpLmFxew7Vpyx6TelJl9sMg",
+        "Terreno",
+        "30/10/2026"
+      ],
+      [
+        "16ygE4uhKceYp7Tc4sA1Ph8SCA7oMt0e6",
+        "Terreno",
+        "29/10/2026"
+      ]
+    ]
   }
- },
- "fotos": {
-  "Lote 39": [
-   [
-    "1f0EBQsqmTm1mM1eqJEQbAgBuGQzv_Hp5",
-    "Habilitado y cimbrado de zapatas",
-    "19/11/2026"
-   ],
-   [
-    "1ZF676nywTarIgU2iZViDURvTssvs37IT",
-    "Habilitado de acero de zapatas",
-    "19/11/2026"
-   ],
-   [
-    "1Y-p22UWGw8ECGOU5GJc2wZqTuE_K0ztP",
-    "Habilitado de acero de zapatas",
-    "19/11/2026"
-   ],
-   [
-    "1E9JAuMskYDOZZ1kWP53WUJ_H-VDgVcmP",
-    "Colocación de anillos de castillos",
-    "18/11/2026"
-   ],
-   [
-    "1_jsiKP9jpgwoB-M6Zw4Qs__bZlbBxu8Z",
-    "Refuerzo de madera en cimbra de cadenas",
-    "18/11/2026"
-   ],
-   [
-    "1SJfJ2SS7vh7V30hYlpJsx1GCRyUT-5Hc",
-    "Terminación de detalles de cimbra y acero",
-    "17/11/2026"
-   ],
-   [
-    "13zlav2IkxHMF_EoNAseUWQTloseKb787",
-    "Terminación de detalles de cimbra y acero",
-    "17/11/2026"
-   ],
-   [
-    "1XFkX_-s3rNIrLJSN2K6f43q04UEIrWdG",
-    "Terminación de detalles de cimbra y acero",
-    "17/11/2026"
-   ],
-   [
-    "1GlPC6JgEPePlIKHC2WvkHyS8e_MtEX-u",
-    "Terminación de detalles de cimbra y acero",
-    "17/11/2026"
-   ],
-   [
-    "1PgdBrRbPGrvx-frdNjPf4wgifsYFETeX",
-    "Terminación de detalles de cimbra y acero",
-    "17/11/2026"
-   ],
-   [
-    "1E0s38sMPLhWZqF1zEibe_mFsP_cxkoGY",
-    "Colocación de armado de zapata y viga de cimentación",
-    "12/11/2026"
-   ],
-   [
-    "15hg-CKUHhohE549fD5O7PFaKXI0CY75X",
-    "Colocación de armado de zapata y viga de cimentación",
-    "12/11/2026"
-   ],
-   [
-    "1rAmH-rsRC3X8LXcqpexeDOFLk7kaC_4t",
-    "Colocación de armado de zapata y viga de cimentación",
-    "12/11/2026"
-   ],
-   [
-    "1nxZg0ZTYupqtBAksGfrxNFjDH38gNtJD",
-    "Colocación de cimbra para cimentación y viga de desplante",
-    "12/11/2026"
-   ],
-   [
-    "1xpfGmdV1EqvVtJ7lPwLoBQmd57GnvSss",
-    "Colocación de cimbra para cimentación y viga de desplante",
-    "12/11/2026"
-   ],
-   [
-    "1nApNGRs4XHCyxlaKLz79cemv__qsQt80",
-    "Colocación de cimbra para cimentación y viga de desplante",
-    "12/11/2026"
-   ],
-   [
-    "1lQ7GxGEKq3vPKMMjROeyoMhHC-hC9yLX",
-    "Plantilla de concreto pobre fc 100 kg/cm2",
-    "11/11/2026"
-   ],
-   [
-    "15sSWSP7obKPnGgYJLBUCATvgOU8OGa1F",
-    "Plantilla de concreto pobre fc 100 kg/cm2",
-    "11/11/2026"
-   ],
-   [
-    "1xT5QubNWqwdw-Vw5hEVIQbmKwxBKvdOA",
-    "Cimbrado de viga y zapata",
-    "11/11/2026"
-   ],
-   [
-    "1eK1P79w5luGckF_PnKLXyzjp0Eq4GgWj",
-    "Cimbrado de viga y zapata",
-    "11/11/2026"
-   ],
-   [
-    "1_rSWV6q0Rb8SsDKN4d5yhhw1NWrZ2GdX",
-    "Colocación de castillos en cimentación y estribos topo C",
-    "11/11/2026"
-   ],
-   [
-    "1Dmus61YxEj_9TA4Bc3GusmTfHpsdbqir",
-    "Colocación de armado de zapata y viga de desplante",
-    "11/11/2026"
-   ],
-   [
-    "1kC8kBdDO87umTnil4ATGIO6eRrG6GPUI",
-    "Cimbrado de cimentación y viga desplante",
-    "10/11/2026"
-   ],
-   [
-    "1WiZeDH3J7QjvhGCBDQ2amnw_ZmJvlI7H",
-    "Cimbrado de cimentación y viga desplante",
-    "10/11/2026"
-   ],
-   [
-    "13YbI-UBFPVElGfFMvh8b_Mv9EbhLCW5N",
-    "Plantilla de concreto pobre",
-    "10/11/2026"
-   ],
-   [
-    "1R1PD5fmY5a5fOg6wHvY8gYLoEvgyZ5y1",
-    "Plantilla de concreto pobre",
-    "10/11/2026"
-   ],
-   [
-    "1QUfElxYYIxO0KnnWXdhgfBM5tLBFa32y",
-    "Afinado de terreno y nivelación con grava para recibir plantilla",
-    "10/11/2026"
-   ],
-   [
-    "11MthYcZwq8xXum9lDwCcmKIl5Gdwpb14",
-    "Afinado de terreno y nivelación con grava para recibir plantilla",
-    "10/11/2026"
-   ],
-   [
-    "1a4WqEblZxNQXm-ZczRn3UWaKxgzhDt1T",
-    "Suministro de madera (peracera)",
-    "10/11/2026"
-   ],
-   [
-    "1t2dVKWfkICvA-jXJULVLSZlYeG3fM7XY",
-    "Excavación de zapatas",
-    "30/10/2026"
-   ],
-   [
-    "1Ymes0j1R91x2WVeMjClNpqsNfqIVfSCX",
-    "Habilitado de acero",
-    "30/10/2026"
-   ],
-   [
-    "13DNzTkTjI8vSSyGZqyhjU4SDc-CHkfCO",
-    "Trazo de nueva cimentación",
-    "29/10/2026"
-   ],
-   [
-    "1W6xzqDGMBOBXTxgpggmjYRkiac--YxMk",
-    "Trazo de nueva cimentación",
-    "29/10/2026"
-   ],
-   [
-    "1fCKQ50vjqgU6IbwlEO69mBmJ18dylSbX",
-    "Excavación",
-    "29/10/2026"
-   ],
-   [
-    "1tkDa3Z1skzggsYUiwZCFIAlz4eVWcgGm",
-    "Excavación",
-    "29/10/2026"
-   ],
-   [
-    "1J-zrxCA3uy1sldEGjBsh77JjaSfENfz1",
-    "Armado de parrillas Z-1",
-    "29/10/2026"
-   ]
-  ],
-  "Lote 40": [
-   [
-    "1wVejB-OneqLdC1kXqCPZ4XLArIvFQXK1",
-    "Excavación material tipo 3 para cimentación",
-    "18/11/2026"
-   ],
-   [
-    "1DNWn5UB3UBEuyGElP125SF8yK96W_jZa",
-    "Excavación material tipo 3 para cimentación",
-    "18/11/2026"
-   ],
-   [
-    "1czRVC1kaJumYlzh9GWkRbJNdpFMmxAa_",
-    "Excavación material tipo 3 para cimentación",
-    "18/11/2026"
-   ],
-   [
-    "1wyBfWDuiEuQvq1-RryODQJKR0q23hCsl",
-    "Colocación de plantillas de concreto pobre",
-    "18/11/2026"
-   ],
-   [
-    "1A6BYPA7O-BcNb3LfojrsoI7zWU1dwuQO",
-    "Colocación de plantillas de concreto pobre",
-    "18/11/2026"
-   ],
-   [
-    "1IM2JO3uN8cP1Vd1f5Cpm5_nhQtkvIhH9",
-    "Habilitación de acero y colocación de zapata corrida",
-    "18/11/2026"
-   ],
-   [
-    "1Dk1ebD5ek3ZzxOMxBAkwH2aIkMIO6rK1",
-    "Habilitación de acero",
-    "17/11/2026"
-   ],
-   [
-    "16Yr59bxl9XkKBoXFg4h4IaVwBvhLlfG7",
-    "Trazo del lote 40",
-    "12/11/2026"
-   ],
-   [
-    "1KXpWHLYElEf9X5utf8_tgeiuHsFasQhd",
-    "Excavación con máquina material tipo 3",
-    "12/11/2026"
-   ],
-   [
-    "1276qhgJLoGx8TZ34auG-M7oao90RK_d1",
-    "Excavación con máquina material tipo 3",
-    "12/11/2026"
-   ],
-   [
-    "1k-u5gyt-bt6DjSUxXwI682qBS7R2T-84",
-    "Excavación con máquina material tipo 3",
-    "12/11/2026"
-   ],
-   [
-    "1n6ONAUpeHd6BSouvwj_WnR15wpLQ18VA",
-    "Habilitado de acero",
-    "30/10/2026"
-   ],
-   [
-    "1bRi8dn95Yl4KD_hjPcUMN1iJ84UR8JNQ",
-    "Habilitado de acero",
-    "30/10/2026"
-   ],
-   [
-    "195HIkD4Na3ubihQLLzOOg4cBktM0UlMP",
-    "Habilitado de acero",
-    "29/10/2026"
-   ],
-   [
-    "1AWnxdPr3ML5vJVMbnVUa2aUPYW4N_laW",
-    "Habilitado de acero",
-    "29/10/2026"
-   ]
-  ],
-  "Lote 43": [
-   [
-    "1Zr3ObEWWDpKRGxbi3dK8Moc1w9_kF_FG",
-    "Habilitación de acero de refuerzo",
-    "18/11/2026"
-   ],
-   [
-    "1BT1kqFdv4vbPQYbVbCalpnSuGz1efo29",
-    "Habilitación de acero de refuerzo",
-    "18/11/2026"
-   ],
-   [
-    "1-5z73h2NURXygpVBtIdnu1WMpi_U26D7",
-    "Habilitación de acero de cimentación",
-    "17/11/2026"
-   ],
-   [
-    "1Vkb3rrT6C_MKDd3xYCcfuOyNl8-J4CjM",
-    "Habilitación de acero de cimentación",
-    "17/11/2026"
-   ],
-   [
-    "1dQtXicT6-vwclBIQzb1qRzNF6Gj9Ovgk",
-    "Habilitación de acero de cimentación",
-    "17/11/2026"
-   ],
-   [
-    "1kM_HLoSZTbpLmFxew7Vpyx6TelJl9sMg",
-    "Terreno",
-    "30/10/2026"
-   ],
-   [
-    "16ygE4uhKceYp7Tc4sA1Ph8SCA7oMt0e6",
-    "Terreno",
-    "29/10/2026"
-   ]
-  ]
- }
 }
