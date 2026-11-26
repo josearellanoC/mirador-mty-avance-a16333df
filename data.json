@@ -1,5 +1,5 @@
 {
- "corte": "24/11/2026",
+ "corte": "25/11/2026",
  "direccion": "Privada El Mirador, Dominio Cumbres, García, NL.",
  "hitos": [
   "Excavaciones para cimentación",
@@ -28,7 +28,7 @@
   },
   "Lote 40": {
    "Excavaciones para cimentación": 10,
-   "Cimentación": 30
+   "Cimentación": 0
   },
   "Lote 43": {
    "Excavaciones para cimentación": 10,
@@ -37,6 +37,11 @@
  },
  "fotos": {
   "Lote 39": [
+   [
+    "1yuo8QCJLiepX51wUK70wB_79nYu0eXb-",
+    "Pegado de block de enrase hasta cerramiento intermedio, ejes 1-5 H y E-H",
+    "25/11/2026"
+   ],
    [
     "1LKWal1hMfLN2r35pBfU3QZHRpjDKv4zG",
     "Decimbrado, eje G-B",
@@ -249,6 +254,21 @@
    ]
   ],
   "Lote 40": [
+   [
+    "1Y10EHGo9WSAe249SXVNM6AZm-x1-pKDn",
+    "Cimbrado de zapatas, ejes 1-5 G-H",
+    "25/11/2026"
+   ],
+   [
+    "1QVPGeHm4ktk1sGyXRHT9bkq0Ze-sdTbP",
+    "Excavación de cimentación, zapatas ejes G-E y 1-5",
+    "25/11/2026"
+   ],
+   [
+    "151YM734LdSZ5d26Mgbko1RKSZ13RMT5P",
+    "Habilitado de acero",
+    "25/11/2026"
+   ],
    [
     "1LMa5ZfL2nrTVeIdum55dsTVA1q9tpkUI",
     "Avance de habilitado de acero, eje 1 al 5 G",
