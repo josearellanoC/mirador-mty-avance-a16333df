@@ -1,6 +1,6 @@
 # Mirador MTY – sitio de avance (estático)
 
-Archivos: `index.html` (generado), `img/` (logo, `t_<id>.jpg` 400 px, `f_<id>.jpg` 1600 px q82, EXIF corregido),
+Archivos: `index.html` (generado), `img/` (logo, `t_<id>.jpg` 400 px, `f_<id>.jpg` 1600 px q85, EXIF corregido),
 `data.json` (fuente), `template.html`, `build.py`.
 
 ## Actualizar cuando llega un reporte nuevo

@@ -12,7 +12,7 @@ def make(i):
     t,f=f'img/t_{i}.jpg',f'img/f_{i}.jpg'
     if os.path.exists(t) and os.path.exists(f): return
     im=ImageOps.exif_transpose(Image.open(src(i))).convert('RGB')
-    a=im.copy(); a.thumbnail((1600,1600),Image.LANCZOS); a.save(f,quality=82,optimize=True,progressive=True)
+    a=im.copy(); a.thumbnail((1600,1600),Image.LANCZOS); a.save(f,quality=85,optimize=True,progressive=True)
     b=im.copy(); b.thumbnail((400,400),Image.LANCZOS); b.save(t,quality=78,optimize=True)
 rows=[];allf=[]
 for lote,fs in d['fotos'].items():

@@ -11,10 +11,11 @@ th.l{text-align:left;white-space:nowrap;padding-right:6px}.lg{display:flex;align
 #lb{position:fixed;inset:0;background:#000;display:none;flex-direction:column;z-index:9;touch-action:pan-y}#lb.on{display:flex}
 #lb .top{display:flex;justify-content:space-between;align-items:center;color:#fff;padding:10px 14px;font-size:14px}
 #lb .st{flex:1;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
-#lb .st img{max-width:100%;max-height:100%;object-fit:contain;user-select:none;-webkit-user-drag:none}
+#lb .st img{max-width:100%;max-height:100%;object-fit:contain;user-select:none;-webkit-user-drag:none;transition:transform .2s}
 #lb button{background:rgba(255,255,255,.15);color:#fff;border:0;border-radius:99px;width:44px;height:44px;font-size:24px;cursor:pointer}
 #lb .p,#lb .n{position:absolute;top:50%;transform:translateY(-50%)}#lb .p{left:10px}#lb .n{right:10px}
 #lb .cap{color:#ddd;padding:10px 14px 18px;font-size:14px;text-align:center}
+@media(max-width:520px){#lb .p,#lb .n{display:none}}
 </style></head><body><main>
 <header><div class="r"><img src="%LOGO%" alt="Taller Habitat Arquitectos"><h1>Avance de obra – Mirador MTY</h1></div>
 <div class="sub">%DIR% Corte: reporte del %CORTE%.</div></header>
@@ -27,7 +28,7 @@ th.l{text-align:left;white-space:nowrap;padding-right:6px}.lg{display:flex;align
 <div class="cap" id="cap"></div></div>
 <script>
 const F=%FOTOS%;let k=0;const lb=document.getElementById('lb'),im=document.getElementById('im');
-function show(i){k=(i+F.length)%F.length;const f=F[k];im.src=f.t;const h=new Image();h.onload=()=>{if(F[k]===f)im.src=f.f};h.src=f.f;
+function show(i){if(!F.length)return;k=(i+F.length)%F.length;const f=F[k];im.src=f.t;const h=new Image();h.onload=()=>{if(F[k]===f)im.src=f.f};h.src=f.f;
 document.getElementById('ct').textContent=f.l+' · '+(k+1)+' de '+F.length;document.getElementById('cap').textContent=f.a+' · Reporte del '+f.d;
 [k+1,k-1].forEach(j=>{new Image().src=F[(j+F.length)%F.length].f})}
 document.querySelectorAll('.g img').forEach(e=>e.onclick=()=>{show(+e.dataset.k);lb.classList.add('on');document.body.style.overflow='hidden'});
@@ -35,5 +36,6 @@ function close(){lb.classList.remove('on');document.body.style.overflow=''}
 document.getElementById('x').onclick=close;lb.querySelector('.p').onclick=()=>show(k-1);lb.querySelector('.n').onclick=()=>show(k+1);
 addEventListener('keydown',e=>{if(!lb.classList.contains('on'))return;if(e.key=='ArrowRight')show(k+1);if(e.key=='ArrowLeft')show(k-1);if(e.key=='Escape')close()});
 let x0=null;lb.addEventListener('touchstart',e=>{x0=e.touches[0].clientX},{passive:true});
-lb.addEventListener('touchend',e=>{if(x0===null)return;const dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)show(dx<0?k+1:k-1)});
+lb.addEventListener('touchmove',e=>{if(x0!==null)im.style.transform='translateX('+(e.touches[0].clientX-x0)+'px)'},{passive:true});
+lb.addEventListener('touchend',e=>{if(x0===null)return;const dx=e.changedTouches[0].clientX-x0;x0=null;im.style.transform='';if(Math.abs(dx)>40)show(dx<0?k+1:k-1)});
 </script></body></html>
