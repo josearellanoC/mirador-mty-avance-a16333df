@@ -28,7 +28,7 @@
   },
   "Lote 40": {
    "Excavaciones para cimentación": 10,
-   "Cimentación": 0
+   "Cimentación": 10
   },
   "Lote 43": {
    "Excavaciones para cimentación": 10,
@@ -269,6 +269,36 @@
    ]
   ],
   "Lote 40": [
+   [
+    "1TCD0VzhtrhxmoYg-BgK6ulfoGrvSlxZV",
+    "Nivelación y tiro de plantilla, eje E 1-5",
+    "26/11/2026"
+   ],
+   [
+    "1NXeJOJsfUHT0kroNFUuj8wj_maJeCzFs",
+    "Nivelación y tiro de plantilla, eje E 1-5",
+    "26/11/2026"
+   ],
+   [
+    "1_w1d6If9cYrmBwbLuKON4b9jAfpTo-xd",
+    "Excavación y retiro de escombro, ejes E-B",
+    "26/11/2026"
+   ],
+   [
+    "18ucwyKNh-7PYCQHc4ZU4LxkV0kDVZT0i",
+    "Excavación y retiro de escombro, ejes E-B",
+    "26/11/2026"
+   ],
+   [
+    "18mteCtUR62TvKPFB2uhzlan6j90Jgdj2",
+    "Armado de castillos, ejes 1-5 H",
+    "26/11/2026"
+   ],
+   [
+    "1p14HcEFShA4I2vJ0-L0IdsIs5PrWW9fF",
+    "Habilitado de acero",
+    "26/11/2026"
+   ],
    [
     "1Y10EHGo9WSAe249SXVNM6AZm-x1-pKDn",
     "Cimbrado de zapatas, ejes 1-5 G-H",
